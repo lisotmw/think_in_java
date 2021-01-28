@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/TinkingInJava.jar" sourcepath="libs/TinkingInJava.jar"/>
+	<classpathentry kind="lib" path="libs/typeinfo-pets.jar"/>
+	<classpathentry kind="lib" path="C:/mysoftware/java/jdk1.8/lib/tools.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.sun"/>
+			<attribute name="maven.artifactId" value="tools"/>
+			<attribute name="maven.version" value="1.8"/>
+			<attribute name="maven.scope" value="system"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
